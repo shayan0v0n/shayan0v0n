@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm shayan vosoughi</h1>
-<h3 align="center">Highly skilled JS Developer</h3>
+<h3 align="center">Highly skilled Software Developer</h3>
 
-- 🔭 I’m currently working on [Bilyo Project](https://www.bilyo.ir)
-<br />
-<br />
-- 🌱 I’m currently learning **React native**
-<br />
-<br />
-- Ask me about **React, Next, Nest, MongoDB**
-<br />
 <br />
 - How to reach me **shayanwqhw@gmail.com**
 <br />
